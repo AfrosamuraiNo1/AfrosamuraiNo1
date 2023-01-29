@@ -1,5 +1,4 @@
 
-### Hi there 👋
 <div id="header" align="center">
 
   <img src="https://media.tenor.com/VlYXAX_AIj8AAAAd/genius-guy-eating.gif" width="400"/>
