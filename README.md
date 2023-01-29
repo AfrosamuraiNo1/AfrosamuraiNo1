@@ -24,7 +24,8 @@ I am a novice developer in python and Russia.\
 - :seedling: Окончил курсы на LearnPython, Хекслет. До этого читал обучающую литературу Пол Берри Head first python, Сергей Волох Ubuntu Linux, Aditya Bhargava Grokking algorithms и тд.
 - Graduated from the courses at LearnPython, Hexlet. Before that, I read educational literature by Paul Berry Head first python, Sergey Volokh Ubuntu Linux, Aditya Bhargava Grokking algorithms and so on.
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: В свободное время я решаю задачи на https://code-basics.com и читаю технические статьи. 
+-In my free time, I solve problems on https://code-basics.com and I read technical articles.
 
 
 
@@ -50,8 +51,8 @@ I am a novice developer in python and Russia.\
 <div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
+<a href="[your link](https://t.me/AfrosamuraiNo1)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
-<a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
+<a href="[your link](https://tenor.com/bbZd3.gif)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
+<a href="[your link](https://youtu.be/C-HZ9qDD9sI)" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="" height="30" width="40" /></a>
 </div>
