@@ -3,7 +3,7 @@
 
   <img src="https://media.tenor.com/VlYXAX_AIj8AAAAd/genius-guy-eating.gif" width="400"/>
 
-  <h1 align="center">Hi there, I'm <a href=# target="_blank">Sasha</a> 
+  <h1 align="center">Hi there, I'm <a href="https://t.me/AfrosamuraiNo1" target="_blank">Sasha</a> 
 
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
