@@ -25,7 +25,7 @@ I am a novice developer in python and Russia.\
 - Graduated from the courses at LearnPython, Hexlet. Before that, I read educational literature by Paul Berry Head first python, Sergey Volokh Ubuntu Linux, Aditya Bhargava Grokking algorithms and so on.
 
 - :zap: В свободное время я решаю задачи на https://code-basics.com и читаю технические статьи. 
--In my free time, I solve problems on https://code-basics.com and I read technical articles.
+- In my free time, I solve problems on https://code-basics.com and I read technical articles.
 
 
 
