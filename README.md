@@ -14,7 +14,7 @@
 
 ### :man_technologist: About Me :
 
-I am a novice developer in python and Russia.\
+I am a novice Python developer from Russia.\
 Я начинающий разработчик на питоне и россии.
 
 - :telescope: Несколько лет я изучаю питон и его фремворки.  
@@ -22,12 +22,10 @@ I am a novice developer in python and Russia.\
 
 
 - :seedling: Окончил курсы на LearnPython, Хекслет. До этого читал обучающую литературу Пол Берри Head first python, Сергей Волох Ubuntu Linux, Aditya Bhargava Grokking algorithms и тд.
-- Graduated from the courses at LearnPython, Hexlet. Before that, I read educational literature by Paul Berry Head first python, Sergey Volokh Ubuntu Linux, Aditya Bhargava Grokking algorithms and so on.
+- I've graduated from the following courses:  LearnPython, Hexlet. Before that, I've educational literature by Paul Berry "Head first python" by Paul Berry, "Ubuntu Linux" by Sergey Volokh, "Grokking algorithms" Aditya Bhargava and so on.
 
 - :zap: В свободное время я решаю задачи на https://code-basics.com и читаю технические статьи. 
-- In my free time, I solve problems on https://code-basics.com and I read technical articles.
-
-
+- In my free time, I enjoy solving problems on https://code-basics.com and reading technical articles.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
